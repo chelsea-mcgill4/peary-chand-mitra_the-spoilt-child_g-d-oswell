@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#amlah">
+		<match value="Amlah">
+		<value value="amlah"/>
+		<value value="amlahs"/>
+	</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#arjuna">
+		<match value="Arjuna">
+		<value value="Arjuna’s"/>
+	</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ashar">
+		<match value="Ashar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#astrologer">
+		<match value="Astrologer">
+			<value value="astrologer"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bael">
+		<match value="Bael">
+			<value value="bael"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bhagirathi">
+		<match value="Bhagirathi">
+		<value value="bhagirathi"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baya">
+		<match value="Baya">
+		<value value="baya"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#begun">
+		<match value="Begun">
+		<value value="begun"/>
+		<value value="beguns"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bhima">
+		<match value="Bhima"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bidri">
+		<match value="Bidri"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#budgerow">
+		<match value="Budgerow">
+		<value value="budgerow"/>
+	</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#champac">
+		<match value="Champac">
+		<value value="champac"/>
+	</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#chowkidar">
+		<match value="Chowkidar">
+		<value value="chowkidars"/>
+	</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#dampati-baran">
+	<match value="Dampati Baran">
+	<value value="dampati-baran"/>
+</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#dan-sagar">
+	<match value="Dan Sagar">
+	<value value="dan-sagar"/>
+</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#daroga">
+	<match value="Daroga">
+	<value value="darogas"/>
+</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#dewan">
+	<match value="Dewan">
+	<value value="dewan"/>
+</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#druva">
+	<match value="Druva"/>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#durga-poojah">
+	<match value="Durga Poojah">
+	<value value="Durga Pujah"/>
+</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#durwan">
+	<match value="Durwan">
+		<value value="durwan"/>
+		<value value="durwans"/>
+	</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#durryodhan">
+	<match value="Durryodhan"/>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#eid">
+	<match value="Eid"/>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#ghat">
+	<match value="Ghat">
+		<value value="ghat"/>
+		<value value="ghats"/>
+	</match>
+</search-key-group>
+<search-key-group href="text/glossary.xhtml#gosain">
+	<match value="Gosain">
+		<value value="Gosains"/>
+			</match>
+		</search-key-group>
+		<search-key-group href="text/glossary.xhtml#gariwan">
+			<match value="Gariwan">
+				<value value="gariwans"/>
+			</match>
+		</search-key-group>		
+		<search-key-group href="text/glossary.xhtml#guddee">
+			<match value="Guddee">
+				<value value="guddee"/>
+			</match>
+		</search-key-group>
+		<search-key-group href="text/glossary.xhtml#golden-age">
+			<match value="Golden Age"/>
+		</search-key-group>
+		<search-key-group href="text/glossary.xhtml#gharry">
+			<match value="Gharry">
+				<value value="gharry"/>
+			</match>
+		</search-key-group>
+		<search-key-group href="text/glossary.xhtml#ghee">
+			<match value="Ghee">
+				<value value="ghee"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#gomashtha">
+				<match value="Gomashtha">
+					<value value="gomashtha"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#ganga">
+				<match value="Ganga"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#hanuman">
+				<match value="Hanuman"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#hom">
+				<match value="Hom"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#hori-bol">
+				<match value="Hori Bol"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#jelabhi">
+				<match value="Jelabhi">
+					<value value="jelabhi"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#jemadar">
+				<match value="Jemadar">
+					<value value="jemadar"/>
+					<value value="jemadars"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#kabiraj">
+				<match value="Kabiraj">
+					<value value="kabiraj"/>
+					<value value="kabiraj's"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#kalidas">
+				<match value="Kalidas"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#kodali">
+				<match value="Kodàli">
+					<value value="kodàli"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#kayasth">
+				<match value="Kayasth"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#krishna">
+				<match value="Krishna">
+					<value value="Krishna's"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#lanka">
+				<match value="Lanka"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#lakshmi">
+				<match value="Lakshmi"/>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#lathial">
+				<match value="Lathial">
+					<value value="lathials"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#mohurrir">
+				<match value="Mohurrir">
+					<value value="mohurrirs"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#mantra">
+				<match value="Mantra">
+					<value value="mantra"/>
+					<value value="mantras"/>
+				</match>
+			</search-key-group>
+			<search-key-group href="text/glossary.xhtml#mahadeva">
+				<match value="Mahadeva">
+					<value value="Mahadev"/>
+						<value value="Mahadev's"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#mahajan">
+						<match value="Mahajan">
+							<value value="mahajan"/>
+							<value value="Mahajans"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#machan">
+						<match value="Machan">
+							<value value="machan"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#mallika">
+						<match value="Mallika">
+							<value value="mallika"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#muktar">
+						<match value="Muktar"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#moulvi">
+						<match value="Moulvi"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#nala-raja">
+						<match value="Nala Raja">
+							<value value="Nala"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#naib">
+						<match value="Naib">
+							<value value="naib"/>
+							<value value="naibs"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#pandit">
+						<match value="Pandit">
+							<value value="Pandits"/>
+							<value value="pandit"/>
+							<value value="pandits"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#phalgun">
+						<match value="Phalgun"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#paik">
+						<match value="Paik">
+							<value value="paik"/>
+							<value value="paiks"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#ryot">
+						<match value="Ryot">
+							<value value="ryot"/>
+							<value value="ryots"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#radha">
+						<match value="Radha"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#ramadan">
+						<match value="Ramadan"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#shravan">
+						<match value="Shravan"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#shastras">
+						<match value="Shastras">
+							<value value="shastras"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#sari">
+						<match value="Sari">
+							<value value="sari"/>
+							<value value="saris"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#sati">
+						<match value="Sati">
+							<value value="sati"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#satya-pir">
+						<match value="Satya Pir"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#saraswati">
+						<match value="Saraswati"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#shorash">
+						<match value="Shorash">
+							<value value="shorash"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#sephalika">
+						<match value="Sephalika">
+							<value value="sephalika"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#shraddha">
+						<match value="Shraddha">
+							<value value="shraddha"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#shal-fish">
+						<match value="Shal Fish">
+							<value value="shal"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#sheristadar">
+						<match value="Sheristadar">
+							<value value="sheristadar"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#tol">
+						<match value="Tol">
+							<value value="tol"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#tulsi">
+						<match value="Tulsi"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#tauba">
+						<match value="Tauba"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#tabla">
+						<match value="Tabla">
+							<value value="tabla"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#taluk">
+						<match value="Taluk">
+							<value value="taluk"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#udjog-parba">
+						<match value="Udjog Parba"/>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#veda">
+						<match value="Veda">
+							<value value="Vedas"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#vaishnava">
+						<match value="Vaishnava">
+							<value value="Vaishnava's"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#yudishthira">
+						<match value="Yudishthira">
+							<value value="Yudhishthira"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#yama">
+						<match value="Yama"/>
+					</search-key-group>
+					<search-key-group href="zemindar">
+						<match value="Zemindar">
+							<value value="zemindar"/>
+							<value value="zemindars"/>
+							<value value="zemindar's"/>
+						</match>
+					</search-key-group>
+					<search-key-group href="text/glossary.xhtml#zenana">
+						<match value="Zenana">
+							<value value="zenana"/>
+						</match>
+					</search-key-group>
+</search-key-map>
