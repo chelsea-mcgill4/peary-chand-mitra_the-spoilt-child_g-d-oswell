@@ -96,7 +96,9 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#durryodhan">
-		<match value="Durryodhan"/>
+		<match value="Durryodhan">
+			<value value="Durjyodhan"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#eid">
 		<match value="Eid"/>
@@ -166,7 +168,7 @@
 	<search-key-group href="text/glossary.xhtml#kabiraj">
 		<match value="Kabiraj">
 			<value value="kabiraj"/>
-			<value value="kabiraj's"/>
+			<value value="kabiraj’s"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kalidas">
@@ -182,7 +184,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#krishna">
 		<match value="Krishna">
-			<value value="Krishna's"/>
+			<value value="Krishna’s"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lanka">
@@ -210,7 +212,7 @@
 	<search-key-group href="text/glossary.xhtml#mahadeva">
 		<match value="Mahadeva">
 			<value value="Mahadev"/>
-			<value value="Mahadev's"/>
+			<value value="Mahadev’s"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mahajan">
@@ -355,7 +357,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#vaishnava">
 		<match value="Vaishnava">
-			<value value="Vaishnava's"/>
+			<value value="Vaishnava’s"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#yudishthira">
@@ -370,7 +372,7 @@
 		<match value="Zemindar">
 			<value value="zemindar"/>
 			<value value="zemindars"/>
-			<value value="zemindar's"/>
+			<value value="zemindar’s"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#zenana">
