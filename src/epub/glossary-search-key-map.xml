@@ -368,7 +368,7 @@
 	<search-key-group href="text/glossary.xhtml#yama">
 		<match value="Yama"/>
 	</search-key-group>
-	<search-key-group href="zemindar">
+	<search-key-group href="text/glossary.xhtml#zemindar">
 		<match value="Zemindar">
 			<value value="zemindar"/>
 			<value value="zemindars"/>
