@@ -1,7 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:drama"] table,
 table[epub|type~="z3998:drama"]{
 	border-collapse: collapse;
 	margin: 1em auto;
@@ -40,12 +39,6 @@ table[epub|type~="z3998:drama"]{
 	font-style: italic;
 }
 
-[epub|type~="z3998:stage-direction"] [epub|type~="z3998:persona"],
-em [epub|type~="z3998:persona"],
-i [epub|type~="z3998:persona"]{
-	font-style: normal;
-}
-
 [epub|type~="z3998:stage-direction"]::before{
 	content: "(";
 	font-style: normal;
@@ -60,10 +53,6 @@ i [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
 
-section[epub|type~="z3998:scene"] > p{
-	margin: 1em auto;
-	width: 75%;
-}
 
 @media(max-width: 400px){
 	[epub|type~="z3998:drama"] td,
@@ -80,31 +69,9 @@ section[epub|type~="z3998:scene"] > p{
 		margin-top: 1.5em;
 	}
 
-	/* `together` rows get a pseudo-stage-direction. */
-	[epub|type~="z3998:drama"] tr.together td[epub|type~="z3998:persona"]::after{
-		content: " (Together.)";
-		font-style: italic;
-		font-variant: normal;
-	}
-
-	[epub|type~="z3998:drama"] .together td:last-child{
-		border: none;
-		padding: 0;
-	}
-
-	/* Rows that are only stage direction get a top margin. */
-	[epub|type~="z3998:drama"] td:first-child:not([epub|type]) + td{
-		margin-top: 1.5em;
-	}
-}
-
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span{
@@ -122,10 +89,6 @@ section[epub|type~="z3998:scene"] > p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -139,10 +102,6 @@ section[epub|type~="z3998:scene"] > p{
 [epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
-}
-
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:song"] p > span{
