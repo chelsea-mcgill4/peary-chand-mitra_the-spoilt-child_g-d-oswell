@@ -53,7 +53,6 @@ table[epub|type~="z3998:drama"]{
 	font-variant: all-small-caps;
 }
 
-
 @media(max-width: 400px){
 	[epub|type~="z3998:drama"] td,
 	[epub|type~="z3998:drama"] td[epub|type~="z3998:persona"],
@@ -69,47 +68,48 @@ table[epub|type~="z3998:drama"]{
 		margin-top: 1.5em;
 	}
 
-[epub|type~="z3998:poem"] p{
-	text-align: initial;
-	text-indent: 0;
-}
+	[epub|type~="z3998:poem"] p{
+		text-align: initial;
+		text-indent: 0;
+	}
 
-[epub|type~="z3998:poem"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
+	[epub|type~="z3998:poem"] p > span{
+		display: block;
+		padding-left: 1em;
+		text-indent: -1em;
+	}
 
-[epub|type~="z3998:poem"] p > span + br{
-	display: none;
-}
+	[epub|type~="z3998:poem"] p > span + br{
+		display: none;
+	}
 
-[epub|type~="z3998:verse"] p{
-	text-align: initial;
-	text-indent: 0;
-}
+	[epub|type~="z3998:verse"] p{
+		text-align: initial;
+		text-indent: 0;
+	}
 
-[epub|type~="z3998:verse"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
+	[epub|type~="z3998:verse"] p > span{
+		display: block;
+		padding-left: 1em;
+		text-indent: -1em;
+	}
 
-[epub|type~="z3998:verse"] p > span + br{
-	display: none;
-}
+	[epub|type~="z3998:verse"] p > span + br{
+		display: none;
+	}
 
-[epub|type~="z3998:song"] p{
-	text-align: initial;
-	text-indent: 0;
-}
+	[epub|type~="z3998:song"] p{
+		text-align: initial;
+		text-indent: 0;
+	}
 
-[epub|type~="z3998:song"] p > span{
-	display: block;
-	padding-left: 1em;
-	text-indent: -1em;
-}
+	[epub|type~="z3998:song"] p > span{
+		display: block;
+		padding-left: 1em;
+		text-indent: -1em;
+	}
 
-[epub|type~="z3998:song"] p > span + br{
-	display: none;
+	[epub|type~="z3998:song"] p > span + br{
+		display: none;
+	}
 }
